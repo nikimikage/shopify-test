@@ -1,0 +1,16 @@
+{
+  "name": "shopify-dawn-v9-with-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kazuki-miyazato-anice <miyazato.anice+github@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.62.1",
+    "vite": "^4.3.9",
+    "vite-plugin-shopify": "^2.1.1"
+  },
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build"
+  }
+}

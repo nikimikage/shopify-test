@@ -1,0 +1,12 @@
+{
+  "frontend/entrypoints/theme.scss": {
+    "file": "theme-8d996c21.css",
+    "isEntry": true,
+    "src": "frontend/entrypoints/theme.scss"
+  },
+  "frontend/entrypoints/theme.ts": {
+    "file": "theme-c08c6dc9.js",
+    "isEntry": true,
+    "src": "frontend/entrypoints/theme.ts"
+  }
+}
